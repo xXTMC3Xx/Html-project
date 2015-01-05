@@ -11,12 +11,9 @@ p#header{
 img#bacon{
   height: 450 px;
   width: 350px}
-
-
-table, th, td{
-    border: 1px solid black;
-    border-collapse: collapse;}
-    
-th, td{
-  text-align: center;
-  padding: 12px;}
+*{
+  color: #fff;
+}
+p{
+  font-size:18px;
+}
