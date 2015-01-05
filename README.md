@@ -1,4 +1,4 @@
 Html-project
 ============
 
-My html project - http://xxtmc3xx.github.io/html-project
+My html project - http://xxtmc3xx.github.io/Html-project
