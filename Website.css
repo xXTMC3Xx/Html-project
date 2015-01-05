@@ -12,4 +12,6 @@ img#bacon{
   height: 450 px;
   width: 350px}
 
-color: #fff
+* {
+  color: #fff
+}
