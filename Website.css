@@ -1,0 +1,22 @@
+img#banner{
+  height: 160px;
+  width: 600px;}
+
+body{
+  background-color: #C11B17;}
+
+p#header{
+    background-color:#3D362D;}
+    
+img#bacon{
+  height: 450 px;
+  width: 350px}
+
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;}
+    
+th, td{
+  text-align: center;
+  padding: 12px;}
